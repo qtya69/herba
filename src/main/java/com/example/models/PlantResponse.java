@@ -1,3 +1,12 @@
+/*
+* File: PlantResponse.java
+* Author: Traxler Koppány
+* Copyright: 2026, Traxler Koppány
+* Group: Szoft II-N
+* Date: 2026-01-12
+* Github: https://github.com/qtya69/
+* Licenc: MIT
+*/
 package com.example.models;
 
 import java.util.List;
